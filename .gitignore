@@ -46,3 +46,7 @@ coverage.xml
 
 # pyenv
 .python-version
+
+#models
+*.pth
+Kvasir-SEG/
