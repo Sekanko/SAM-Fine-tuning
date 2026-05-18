@@ -1,0 +1,6 @@
+segment_anything~=1.0
+opencv-python
+pycocotools
+matplotlib
+onnxruntime
+onnx
